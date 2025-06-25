@@ -26,5 +26,8 @@
 			"Name": "OculusVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }

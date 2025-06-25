@@ -14,7 +14,6 @@
 - `5`：自旋+线程内空转
 
 # 文档
-![](docs/images/airsim-performance/sample-master_37.png)
 
 ![](docs/images/airsim-performance/sample-master_38.png)
 
